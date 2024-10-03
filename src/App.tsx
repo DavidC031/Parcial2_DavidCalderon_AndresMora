@@ -1,6 +1,6 @@
 import "./App.css";
 
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { BrowserRouter} from "react-router-dom";
 import { Ruteo } from "./app/utilidades/rutas/Ruteo";
 
 function App() {
